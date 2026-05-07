@@ -7,12 +7,7 @@ pipeline {
 
     stages {
 
-        stage('Clone') {
-            steps {
-                git 'https://github.com/Chamidilshika/Jenkins-React-Node-.git'
-            }
-        }
-
+        
         stage('Install Backend') {
             steps {
                 dir('server') {
