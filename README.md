@@ -33,7 +33,7 @@ Builds the React application
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/Jenkins-React-Node.git
+git clone https://github.com/Chamidilshika/Jenkins-React-Node-.git
 cd Jenkins-React-Node
 
 2️⃣ Run Backend
