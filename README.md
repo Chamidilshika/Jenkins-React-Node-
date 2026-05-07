@@ -59,7 +59,9 @@ http://localhost:3000
 ## 🔄 Jenkins Pipeline Flow
 
 GitHub webhook triggers Jenkins job
+
 Jenkins pulls latest code
+
 Installs backend dependencies
 Installs frontend dependencies
 Builds React application
